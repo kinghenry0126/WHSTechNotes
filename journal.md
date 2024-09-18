@@ -5,3 +5,5 @@ some of the sensors found on the Sphero BOLT are compass sensor, ambient light s
 the infrared sensors on sphero BOLT works not ilke a tv infrared. Instead of a single IR emitter (like a TV remote), Sphero BOLT has FOUR! It also has four IR receivers. The four emitters and receivers create 360 of IR communication. This means that Sphero BOLT robots can send and receive messages from each other. That is how it works on sphero infrared works
 # september 09, 2024
 you did good i need spell the thing crroletley  that is it
+# september 17, 2024
+This week is a free week
