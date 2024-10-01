@@ -7,3 +7,9 @@ the infrared sensors on sphero BOLT works not ilke a tv infrared. Instead of a s
 you did good i need spell the thing crroletley  that is it
 # september 17, 2024
 This week is a free week
+ # september 23, 2024
+ The imports to learn code can teach you how computers and phones works and how to fix them.
+ If you miss a code detail or put one little wrong you will have a new code or not working code.
+ A good habit to develop is a the teacher for help if you have a qustion
+ # September 30, 2024
+ some way that computer science plays a role in are lifes are paying bills, managing home budgets, watching movies and listening to songs. They can also use free online applications for communication and information exchange purposes, such as: social media, Skype, and moreover. this are the ways i can think of.
