@@ -13,3 +13,5 @@ This week is a free week
  A good habit to develop is a the teacher for help if you have a qustion
  # September 30, 2024
  some way that computer science plays a role in are lifes are paying bills, managing home budgets, watching movies and listening to songs. They can also use free online applications for communication and information exchange purposes, such as: social media, Skype, and moreover. this are the ways i can think of.
+# October 10, 2024
+Data scientist the job description or what they do is develop algorithms sets of instructions that tell computers what to do and models to support programs for machine learning. They use machine learning to classify or categorize data or to make predictions related to the models. The education or experience you need is at least a bachelor's degree in mathematics, statistics, computer science, or a related field to enter the occupation. However, some employers require or prefer that candidates have a master's or doctoral degree.
