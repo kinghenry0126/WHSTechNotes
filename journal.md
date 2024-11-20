@@ -29,4 +29,17 @@ Have you ever shared something online that you later realized was too personal? 
 How can you balance being open and collaborative in online spaces (like working with others on coding projects) while still protecting your privacy? Write a paragraph or more considering these questions. Include examples of actions you can take to safeguard your own data, and reflect on why being cautious online is important for your personal and professional life.
 # November 12 ,2024
 In this capacity, it provides us with unparalleled convenience, efficiency, and connectivity, empowering us to perform tasks more easily, communicate across vast distances, and access a wealth of information at our fingertips. The benefits are manifold, making our lives more comfortable, productive, and enjoyable. The use of technology during whole-class instruction can foster student engagement for auditory and visual learners. Integrating simple technologies Power Points, games, internet homework assignments, or online grading systems can be difference makers in students' growth in the classroom.Digital learning allows students to access more knowledge and ensures that the content is customisable and tailored to their specific requirements. The ability to assist each student in studying at their speed and on their route is the most crucial advantage of digital learning. AI in education helps educators identify gaps in student knowledge and provide targeted feedback to improve learning outcomes. With the help of AI-powered chatbots and virtual assistants, educators can provide students with immediate support and assistance outside the classroom, helping them stay engaged and motivated.
+#1.define your function
+def pizza_price():
+# 2.ask customer what they want 
+requestion_toppings = input("""
+hello what do you want today
+""")
+base_price=15
+#toppings_price=0
+#tomatoes (+$1.50),
+#onions (+$1.25),
+#pineapple (+$3.50),
+#mushrooms (+$3.75), and
+#avocado (+$0.40).
 
