@@ -36,3 +36,5 @@ AI can handle repetitive and time-consuming tasks, such as data entry, document 
 # december 9, 2024
 AP correspondent Jennifer King reports on the winning word from Oxford University Press, to sum up 2024. “Brain rot” was chosen by a combination of public vote and language analysis by Oxford lexicographers. It beat five other finalists: demure, slop, dynamic pricing, romantasy and lore.
 The word of the year 2024,Oxford's 2024 Word of the Year is more than a century old, but that doesn't mean it's not incredibly relevant in 2024. The winner, announced on Monday by the University of Oxford, was “brain rot” — a term that describes the overconsumption of material or content to the point that it deteriorates one's mental state.
+# decmber 16, 2024
+yes i am looking forwerd to winter bracke
