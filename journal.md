@@ -40,3 +40,6 @@ The word of the year 2024,Oxford's 2024 Word of the Year is more than a century 
 yes i am looking forwerd to winter bracke
 # January 8, 2025 
 I love the class the work was good and some people still did not a thing.One topics activitie or projects I like to explore football anlitcitces.I do not kown what my furtcher holdes for me
+# january 13, 2025 
+As automation continues to evolve, there is an increasing need for professionals with specialized skills, such as machine learning, natural language processing and expertise in large language models. Therefore, employers are prioritizing AI competencies over conventional tech skills, the report stated. In the aftermath of the pandemic-induced tech boom, many companies are now recalibrating their workforce to match current economic and market conditions. During this restructuring phase, businesses are reallocating resources, with firms pivoting away from traditional tech and heavily investing in AI-related products, services and talent.
+
