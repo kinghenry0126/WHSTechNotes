@@ -44,3 +44,12 @@ I love the class the work was good and some people still did not a thing.One top
 As automation continues to evolve, there is an increasing need for professionals with specialized skills, such as machine learning, natural language processing and expertise in large language models. Therefore, employers are prioritizing AI competencies over conventional tech skills, the report stated. In the aftermath of the pandemic-induced tech boom, many companies are now recalibrating their workforce to match current economic and market conditions. During this restructuring phase, businesses are reallocating resources, with firms pivoting away from traditional tech and heavily investing in AI-related products, services and talent.
 # january 21, 2025 
 The Supreme Court unanimously upheld the federal law banning TikTok beginning unless it's sold by its China-based parent company, holding that the risk to national security posed by its ties to China overcomes concerns about limiting speech by the app. A ban is set to into effect on Jan. 19, 2025. There are concerns that the video-sharing platform poses a potential national security risk because of China's involvement with the app. The Supreme Court on Friday upheld the law and rejected TikTok's argument that a ban would violate the Constitution's free speech protections in the First Amendment.Is TikTok safe to use? TikTok is just as safe as any other social media platform. Your safety on TikTok depends on your usage habits, privacy settings, and knowledge of the platform's policies. By managing your privacy, content, and interactions carefully, you can use TikTok safely and securely.
+# january 31, 2025 
+
+
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |  honda civic   |Drilled Hole In Gas Tank         |
+| Kayla    |  GMC Sierra   |    Fixed Wrong Problem     |
+| Bart     |  Toyota Corolla   |  Left Stains On Carpet       |
+| Harrison |	Subaru Foreste     |Left The Oil Cap Off         |
