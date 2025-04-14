@@ -69,5 +69,6 @@ AI only predicted a few upsets in the first round, like No. 10 Utah State seed b
 im ok
 # April 7, 2025 
 A significant portion of students are using AI tools, with surveys indicating that over 80% of students use AI in their studies, and a substantial number using it daily or weeklyRecently, a school in Austin, Texas used AI tutors to help students prepare for tests—and it worked. Their scores improved so much that they ranked in the top 2% nationally. With STAAR testing happening this week, think about how AI tools (like ChatGPT, Khanmigo, or other learning apps) could help you perform better. How do you think AI can help you study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not? AI in education offers benefits like personalized learning, efficiency gains, and data-driven insights, but also poses challenges such as data privacy concerns, potential biases, and the risk of over-reliance on technology
-
+# April 14, 2025 
+this is a free week
 
