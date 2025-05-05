@@ -78,3 +78,5 @@ I wanted to take a moment to thank you for everything you as a coach for us as a
 the whole coaching staff is deditaticated to one goal  thank you  for your leadership and help for blieved in on as players and young man.
 i hope the best for you
 Caleb Henry
+# may 5, 2025
+t’s extremely unlikely that 100 unarmed people could defeat a silverback gorilla, even with strategy. A fully grown male silverback can weigh over 400 pounds and has muscle density, speed, and strength that far surpasses any human. Their bite force is strong enough to crush bones, and they are extremely agile, especially in close combat. While numbers might sound like an advantage,They have incredible upper body strength, really strong jaw muscles. So, they bring a lot to a fight," she explained. But that doesn't mean one gorilla could take on 100 human men! "I think just the sheer numbers that the humans have would mean that the gorilla would probably eventually be overpowered
